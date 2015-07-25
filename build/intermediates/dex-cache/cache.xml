@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/giancarlosanchez/Desktop/GDGWatchFace/app/build/intermediates/exploded-aar/com.google.android.support/wearable/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="0e239b45d3b94ac3d759405a9c5fd1f88e53913b">
+        <dex dex="/Users/giancarlosanchez/Desktop/GDGWatchFace/app/build/intermediates/pre-dexed/debug/classes-5af43020122868dc2b9b4dd7876556df68aef545.jar" />
+    </item>
+    <item
+        jar="/Users/giancarlosanchez/Desktop/GDGWatchFace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/giancarlosanchez/Desktop/GDGWatchFace/app/build/intermediates/pre-dexed/debug/classes-cd299a6bc6fca1d104ad904cf9ef3c2cb1d311f3.jar" />
+    </item>
+    <item
+        jar="/Users/giancarlosanchez/Desktop/GDGWatchFace/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/giancarlosanchez/Desktop/GDGWatchFace/app/build/intermediates/pre-dexed/debug/classes-70f505906be74179be1983e7034319c4bb538d3b.jar" />
+    </item>
+    <item
+        jar="/Users/giancarlosanchez/Desktop/GDGWatchFace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/giancarlosanchez/Desktop/GDGWatchFace/app/build/intermediates/pre-dexed/debug/classes-cf0e1f11a81fbd3f7e3985982b82e8ef3dcc7e3b.jar" />
+    </item>
+    <item
+        jar="/usr/local/Cellar/android-sdk/24.0.2/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/giancarlosanchez/Desktop/GDGWatchFace/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-085446064ba7705ab714baab458520979cfa2c97.jar" />
+    </item>
+    <item
+        jar="/Users/giancarlosanchez/Desktop/GDGWatchFace/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/giancarlosanchez/Desktop/GDGWatchFace/app/build/intermediates/pre-dexed/debug/classes-ea2f068581195633f74b3dd2d81f8498710a44b3.jar" />
+    </item>
+    <item
+        jar="/Users/giancarlosanchez/Desktop/GDGWatchFace/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/giancarlosanchez/Desktop/GDGWatchFace/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-46ee6f12ad67db2dda9640d51cf27a0674c420dc.jar" />
+    </item>
+
+</items>

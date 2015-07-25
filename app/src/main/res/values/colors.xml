@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="digital_background">#000000</color>
+    <color name="digital_text">#ffffff</color>
+    <color name="gdg_green">#009c58</color>
+    <color name="gdg_yellow">#ffb301</color>
+    <color name="gdg_red">#d9442f</color>
+    <color name="gdg_blue">#176ced</color>
+</resources>
